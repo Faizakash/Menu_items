@@ -6,4 +6,7 @@ In the example of a Chinese restaurant, having a multilingual menu that includes
 Additionally, having a multilingual menu can assist restaurants in overcoming language difficulties and guarantee that consumers can place accurate orders. Additionally, it might assist in avoiding misconceptions and miscommunications that might arise as a result of a language barrier. In conclusion, offering a bilingual menu in Chinese, English, and Urdu can assist businesses to draw in a wider clientele, boosting client satisfaction, and enhancing everyone's eating experience.
 
 
+#licensing or ethical issues
+
+We need to make sure that the translations are exact and acceptable for the items on menu. Words or phrases may have distinct implications or meanings in other languages, making translations complicated and nuanced. To ensure accuracy and cultural sensitivity, it is important to have a professional translator or multilingual expert check the translations as there were a number of words which are pronounced similar to English and some food having same ingredient have two different names.It may be crucial to think about the moral ramifications of presenting menu items in various languages if you own a business in a multicultural area. As an illustration, although some could see it as a warm gesture that shows inclusion and appreciation for diversity, others might see it as a sign of cultural appropriation or tokenism.
 
