@@ -1,0 +1,865 @@
+<menu_items>
+ </metadata>
+
+  <dish>
+    <name>啫啫滑雞煲</name>
+    <pronunciation>ze1 ze1 waat6 gai1 bou1</pronunciation>
+    <chinese_segmented>啫啫|滑雞|煲</chinese_segmented>
+    <english_translation>Smooth Chicken Hotpot</english_translation>
+    <english_segmented>Smooth|Chicken |Hotpot</english_segmented>
+    <roman_urdu_transliteration>Murgi Ka Salan</roman_urdu_transliteration>
+    <roman_urdu_segmented>Murgi |Ka Salan</roman_urdu_segmented>
+    <urdu>مرغی کا سالن</urdu>
+    <urdu_segmented>مرغی |کا سالن</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Appetizer</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$50-$100</price_range>
+    <type_of_meat_used>Chicken</type_of_meat_used>
+    <allergy>Poultry</allergy>
+    <halal_haram>Haram</halal_haram>
+  </dish>
+      
+  <dish>
+        <name>啫啫排骨煲</name>
+        <pronunciation>ze1 ze1 paai4 gwat1 bou1</pronunciation>
+        <chinese_segmented>啫啫|排骨|煲</chinese_segmented>
+        <english_translation>Pork Rib Hotpot</english_translation>
+        <english_segmented>Pork Rib| Hotpot</english_segmented>
+        <roman_urdu_transliteration>Sour Ka Salan</roman_urdu_transliteration>
+        <roman_urdu_segmented>Sour |Ka Salan</roman_urdu_segmented>
+        <urdu>سور کا سالن</urdu>
+        <urdu_segmented>سور| کا سالن</urdu_segmented>
+        <category>Food</category>
+        <sub_category>Appetizer</sub_category>
+        <veg_non_veg>Non-vegetarian</veg_non_veg>
+        <price_range>$50-$100</price_range>
+        <type_of_meat_used>Pork</type_of_meat_used>
+        <allergy>Red-Meat</allergy>
+        <halal_haram>Haram</halal_haram>
+  </dish>
+      
+  <dish>
+        <name>啫啫田雞煲</name>
+        <pronunciation>ze1 ze1 tin4 gai1 bou1</pronunciation>
+        <chinese_segmented>啫啫|田雞|煲</chinese_segmented>
+        <english_translation>Frog Meat Hotpot</english_translation>
+        <english_segmented>Frog Meat| Hotpot</english_segmented>
+        <roman_urdu_transliteration>Mandak Ka Salan</roman_urdu_transliteration>
+        <roman_urdu_segmented>Mandak| Ka Salan</roman_urdu_segmented>
+        <urdu>مینڈک کا سالن</urdu>
+        <urdu_segmented>مینڈک| کا سالن</urdu_segmented>
+        <category>Food</category>
+        <sub_category>Appetizer</sub_category>
+        <veg_non_veg>Non-vegetarian</veg_non_veg>
+        <price_range>$50-$100</price_range>
+        <type_of_meat_used>Frog & Seafood</type_of_meat_used>
+        <allergy>Poultry</allergy>
+        <halal_haram>Haram</halal_haram>
+  </dish>
+      
+      <dish>
+        <name>啫啫白鱔煲</name>
+        <pronunciation>ze1 ze1 baak6 sin5 bou1</pronunciation>
+        <chinese_segmented>啫啫|白鱔|煲</chinese_segmented>
+        <english_translation>White Eel Hotpot</english_translation>
+        <english_segmented>White |Eel |Hotpot</english_segmented>
+        <roman_urdu_transliteration>Baam Machli Ka Salan</roman_urdu_transliteration>
+        <roman_urdu_segmented>Baam Machli |Ka Salan</roman_urdu_segmented>
+        <urdu>بام مچھلی کا سالن</urdu>
+        <urdu_segmented>بام مچھلی| کا سالن</urdu_segmented>
+        <category>Food</category>
+        <sub_category>Appetizer</sub_category>
+        <veg_non_veg>Non-vegetarian</veg_non_veg>
+        <price_range>$50-$100</price_range>
+        <type_of_meat_used>Seafood</type_of_meat_used>
+        <allergy>Fish</allergy>
+        <halal_haram>Haram</halal_haram>
+      </dish>
+
+
+<dish>
+    <name>豉汁白鱔煲仔飯</name>
+    <pronunciation>si6 zap1 baak6 sin5 bou1 zai2 faan6</pronunciation>
+    <chinese_segmented>豉汁|白鱔|煲仔飯</chinese_segmented>
+    <english_translation>Claypot rice with steamed eel in black bean sauce</english_translation>
+    <english_segmented>Claypot rice| with steamed eel |in black bean sauce</english_segmented>
+    <roman_urdu_transliteration>Baam Machli Salan Aur Chawal</roman_urdu_transliteration>
+    <roman_urdu_segmented>Baam Machli |Salan Aur Chawal</roman_urdu_segmented>
+    <urdu>بام مچھلی کا سالن اور چاول</urdu>
+    <urdu_segmented>بام مچھلی| کا سالن اور چاول</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Rice Dish</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$50-$100</price_range>
+    <type_of_meat_used>Seafood</type_of_meat_used>
+    <allergy>Fish</allergy>
+    <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+    <name>田雞煲仔飯</name>
+    <pronunciation>tin4 gai1 bou1 zai2 faan6</pronunciation>
+    <chinese_segmented>田雞|煲仔飯</chinese_segmented>
+    <english_translation>Frog Legs with Ginger and Scallions Claypot Rice</english_translation>
+    <english_segmented>Frog Legs|with Ginger and Scallions |Claypot Rice</english_segmented>
+    <roman_urdu_transliteration>Maandak Adrak Aur Pyaz Wala Chawal</roman_urdu_transliteration>
+    <roman_urdu_segmented>Maandak| Adrak| Aur Pyaz Wala| Chawal</roman_urdu_segmented>
+    <urdu>مینڈک، ادرک، اور پیاز والا چاول</urdu>
+    <urdu_segmented>مینڈک|، ادرک|، اور پیاز والا| چاول</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Rice Dish</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$50-$100</price_range>
+    <type_of_meat_used>Frog & Seafood</type_of_meat_used>
+    <allergy>Fish</allergy>
+    <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+    <name>冬菇滑雞煲仔飯</name>
+    <pronunciation>dung1 gu1 waat6 gai1 bou1 zai2 faan6</pronunciation>
+    <chinese_segmented>冬菇|滑雞|煲仔飯</chinese_segmented>
+    <english_translation>Claypot Rice with Mushroom and Chicken</english_translation>
+    <english_segmented>Claypot Rice|with Mushroom |and Chicken</english_segmented>
+    <roman_urdu_transliteration>Khumbi Aur Murgi ka Chawal</roman_urdu_transliteration>
+    <roman_urdu_segmented>Khumbi |Aur Murgi| ka Chawal</roman_urdu_segmented>
+    <urdu>کھمبی اور مرغی کے چاول</urdu>
+    <urdu_segmented>کھمبی| اور مرغی| کے چاول</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Rice Dish</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$0-$50</price_range>
+    <type_of_meat_used>Chicken & Mushroom</type_of_meat_used>
+    <allergy>Mushroom</allergy>
+    <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+    <name>豉椒排骨煲仔飯</name>
+    <pronunciation>si6 ziu1 paai4 gwat1 bou1 zai2 faan6</pronunciation>
+    <chinese_segmented>豉椒|排骨|煲仔飯</chinese_segmented>
+    <english_translation>Ribs with Black Bean Sauce Pot Rice</english_translation>
+    <english_segmented>Ribs |with Black Bean |Sauce Pot Rice</english_segmented>
+    <roman_urdu_transliteration>Pasli Aur Kaali Bean Sauce Chawal</roman_urdu_transliteration>
+    <roman_urdu_segmented>Pasli |Aur Kaali Bean Sauce| Chawal</roman_urdu_segmented>
+    <urdu>پسلی اور کالی بین سوس کے چاول</urdu>
+    <urdu_segmented>پسلی |اور کالی بین سوس| کے چاول</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Rice Dish</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$0-$50</price_range>
+    <type_of_meat_used>Pork</type_of_meat_used>
+    <allergy>Red-Meat</allergy>
+    <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+<name>臘味煲仔飯</name>
+    <pronunciation>laap6 mei6 bou1 zai2 faan6</pronunciation>
+    <chinese_segmented>臘味|煲仔飯</chinese_segmented>
+    <english_translation>Chinese Sausage Claypot Rice</english_translation>
+    <english_segmented>Chinese Sausage |Claypot Rice</english_segmented>
+    <roman_urdu_transliteration>Chinses Sausage Aur Chawal</roman_urdu_transliteration>
+    <roman_urdu_segmented>Chinses Sausage| Aur Chawal</roman_urdu_segmented>
+    <urdu>چائنیز ساسج اور چاول</urdu>
+    <urdu_segmented>چائنیز ساسج |اور چاول</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Rice Dish</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$0-$50</price_range>
+    <type_of_meat_used>Pork/Beef</type_of_meat_used>
+    <allergy>Red-Meat</allergy>
+    <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+<name>鹹蛋肉餅煲仔飯</name>
+    <pronunciation>haam4 daan2 juk6 beng2 bou1 zai2 faan6</pronunciation>
+    <chinese_segmented>鹹蛋|肉餅|煲仔飯</chinese_segmented>
+    <english_translation>Salty Fish Pork Patty Claypot Rice</english_translation>
+    <english_segmented>Salty Fish| Pork Patty |Claypot Rice</english_segmented>
+    <roman_urdu_transliteration>Namkeen Machli Sour Aur Chawal</roman_urdu_transliteration>
+    <roman_urdu_segmented>Namkeen Machli |Sour |Aur Chawal</roman_urdu_segmented>
+    <urdu>نمکین مچھلی، سور، اور چاول</urdu>
+    <urdu_segmented>نمکین مچھلی|، سور|، اور چاول</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Rice Dish</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$0-$50</price_range>
+    <type_of_meat_used>Pork</type_of_meat_used>
+    <allergy>Fish/Red-Meat</allergy>
+    <halal_haram>Haram</halal_haram>
+</dish>
+
+<dish>
+  <name>鹹魚肉餅煲仔飯</name>
+    <pronunciation>haam4 jyu4 juk6 beng2 bou1 zai2 faan6</pronunciation>
+    <chinese_segmented>鹹魚|肉餅|煲仔飯</chinese_segmented>
+    <english_translation>Salty Fish Claypot Rice</english_translation>
+    <english_segmented>Salty Fish |Claypot Rice</english_segmented>
+    <roman_urdu_transliteration>Namkeen Machli Aur Chawal</roman_urdu_transliteration>
+    <roman_urdu_segmented>Namkeen Machli |Aur Chawal</roman_urdu_segmented>
+    <urdu>نمکین مچھلی اور چاول</urdu>
+    <urdu_segmented>نمکین مچھلی| اور چاول</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Rice Dish</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$0-$50</price_range>
+    <type_of_meat_used>Seafood</type_of_meat_used>
+    <allergy>Seafood</allergy>
+    <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>鹹魚肉餅煲仔飯</name>
+    <pronunciation>haam4 jyu4 juk6 beng2 bou1 zai2 faan6</pronunciation>
+    <chinese_segmented>鹹魚|肉餅|煲仔飯</chinese_segmented>
+    <english_translation>Salty Fish Claypot Rice</english_translation>
+    <english_segmented>Salty Fish|Claypot Rice</english_segmented>
+    <roman_urdu_transliteration>Namkeen Machli Aur Chawal</roman_urdu_transliteration>
+    <roman_urdu_segmented>Namkeen Machli|Aur Chawal</roman_urdu_segmented>
+    <urdu>نمکین مچھلی اور چاول</urdu>
+    <urdu_segmented>نمکین مچھلی|اور چاول</urdu_segmented>
+    <category>Food</category>
+    <sub_category>Rice</sub_category>
+    <veg_non_veg>Non-vegetarian</veg_non_veg>
+    <price_range>$0-$50</price_range>
+    <type_of_meat_used>Seafood</type_of_meat_used>
+    <allergy>Seafood</allergy>
+    <halal_haram>Haram</halal_haram>
+</dish>
+
+ <dish>
+  <name>臘腸肉餅煲仔飯</name>
+  <pronunciation>laap6 coeng4 juk6 beng2 bou1 zai2 faan6</pronunciation>
+  <chinese_segmented>臘腸|肉餅|煲仔飯</chinese_segmented>
+  <english_translation>Chinese Sausage Claypot Rice</english_translation>
+  <english_segmented>Chinese Sausage|Claypot Rice</english_segmented>
+  <roman_urdu_transliteration>Chinese Sausage Aur Safed Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented>Chinese Sausage|Aur Safed Chawal</roman_urdu_segmented>
+  <urdu>چائنیز ساسج اور سفید چاول</urdu>
+  <urdu_segmented>چائنیز ساسج|اور سفید چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$0-$50</price_range>
+  <type_of_meat_used>Pork</type_of_meat_used>
+  <allergy>Red-Meat</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>窩蛋肉餅煲仔飯</name>
+  <pronunciation>wo1 daan2 juk6 beng2 bou1 zai2 faan6</pronunciation>
+  <chinese_segmented>窩蛋|肉餅|煲仔飯</chinese_segmented>
+  <english_translation>Steam Pork Patty Claypot Rice</english_translation>
+  <english_segmented>Steam |Pork Patty |Claypot Rice</english_segmented>
+  <roman_urdu_transliteration>Steam Sour Ki Chhoti Chhoti Golia Aur Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented>Steam| Sour Ki Chhoti Chhoti Golia |Aur Chawal</roman_urdu_segmented>
+  <urdu>استیم سور کی چھوٹی چھوٹی گولیاں، اور چاول</urdu>
+  <urdu_segmented>استیم| سور کی چھوٹی چھوٹی گولیا|، اور چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$0-$50</price_range>
+  <type_of_meat_used>Chicken (egg)</type_of_meat_used>
+  <allergy>Egg</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>梅菜肉餅煲仔飯</name>
+  <pronunciation>mui4 coi3 juk6 beng2 bou1 zai2 faan6</pronunciation>
+  <chinese_segmented>梅菜|肉餅|煲仔飯</chinese_segmented>
+  <english_translation>Claypot Rice with Pork Meat Pie and Preserved Vegetables</english_translation>
+  <english_segmented>Claypot Rice| with Pork Meat Pie| and Preserved Vegetables</english_segmented>
+  <roman_urdu_transliteration>Sur, Sabzi Aur Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented>Sour,| Sabzi |Aur Chawal</roman_urdu_segmented>
+  <urdu>سور، سبزی، اور چاول</urdu>
+  <urdu_segmented>سور|، سبزی،| اور چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$0-$50</price_range>
+  <type_of_meat_used>Pork</type_of_meat_used>
+  <allergy>Pork</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+<dish>
+  <name>土魷肉餅煲仔飯</name>
+  <pronunciation>tou2 jau4 juk6 beng2 bou1 zai2 faan6</pronunciation>
+  <chinese_segmented>土魷|肉餅|煲仔飯</chinese_segmented>
+  <english_translation>Steamed Minced Pork with Dried Squid</english_translation>
+  <english_segmented>Steamed Minced Pork| with Dried Squid</english_segmented>
+  <roman_urdu_transliteration>Steam Pork Aur Squid Salan</roman_urdu_transliteration>
+  <roman_urdu_segmented>Steam |Pork |Aur Squid Salan</roman_urdu_segmented>
+  <urdu>استیم سور اور سکویڈ کا سالن</urdu>
+  <urdu_segmented>استیم |سور| اور سکویڈ کا سالن</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$0-$50</price_range>
+  <type_of_meat_used>Pork</type_of_meat_used>
+  <allergy>Fish/Red-Meat</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+<dish>
+  <name>油鴨脾煲仔飯</name>
+  <pronunciation>jau4 ngaap3 pei4 bou1 zai2 faan6</pronunciation>
+  <chinese_segmented>油鴨|脾|煲仔飯</chinese_segmented>
+  <english_translation>Claypot Rice with Cured Duck Leg</english_translation>
+  <english_segmented>Claypot Rice |with Cured Duck Leg</english_segmented>
+  <roman_urdu_transliteration>Bahtak Ka Salan Aur Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented>Bahtak| Ka Salan |Aur Chawal</roman_urdu_segmented>
+  <urdu>بھٹک کا سالن اور چاول</urdu>
+  <urdu_segmented>بھٹک| کا سالن| اور چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Main course</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Duck</type_of_meat_used>
+  <allergy>Poultry</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>油鴨煲仔飯</name>
+  <pronunciation>jau4 ngaap3 bou1 zai2 faan6</pronunciation>
+  <chinese_segmented>油鴨|煲仔飯</chinese_segmented>
+  <english_translation>Steamed Rice with Cured Duck Leg</english_translation>
+  <english_segmented>Steamed Rice |with Cured Duck Leg</english_segmented>
+  <roman_urdu_transliteration>Bahtak Ka Salan Aur Safed Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented>Bahtak |Ka Salan |Aur Safed Chawal</roman_urdu_segmented>
+  <urdu>بھٹک کا سالن اور سفید چاول</urdu>
+  <urdu_segmented>بھٹک |کا سالن| اور سفید چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Duck</type_of_meat_used>
+  <allergy>Poultry</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>肉絲炒飯</name>
+  <pronunciation>rou4 si1 chao3 fan4</pronunciation>
+  <chinese_segmented>肉絲|炒飯</chinese_segmented>
+  <english_translation>Fried Rice with Shredded Pork</english_translation>
+  <english_segmented>Fried Rice| with Shredded Pork</english_segmented>
+  <roman_urdu_transliteration>Sour Ka Tukrey Aur Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented>Sour Ka Tukrey |Aur Chawal</roman_urdu_segmented>
+  <urdu>سور کے ٹکڑے اور چاول</urdu>
+  <urdu_segmented>سور کے ٹکڑے |اور چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Pork</type_of_meat_used>
+  <allergy>None</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>干燒伊麵</name>
+  <pronunciation>gan1 shao1 yi1 mian4</pronunciation>
+  <chinese_segmented>干燒伊|麵</chinese_segmented>
+  <english_translation>Stir Fry E-Fu Noodles</english_translation>
+  <english_segmented>Stir Fry| E-Fu |Noodles</english_segmented>
+  <roman_urdu_transliteration>Halka Fried Noodles</roman_urdu_transliteration>
+  <roman_urdu_segmented>Halka |Fried| Noodles</roman_urdu_segmented>
+  <urdu>ہلکا فرائیڈ نوڈلز</urdu>
+  <urdu_segmented>ہلکا| فرائیڈ| نوڈلز</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Noodles</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used></type_of_meat_used>
+  <allergy></allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>排骨炒河</name>
+  <pronunciation>paai4 gwat1 caau2 ho4</pronunciation>
+  <chinese_segmented>排骨|炒河</chinese_segmented>
+  <english_translation>Fry Pork Ribs with Black Bean Sauce</english_translation>
+  <english_segmented>Fry| Pork Ribs |with Black Bean Sauce</english_segmented>
+  <roman_urdu_transliteration>Tala Sour Aur Kali Bean Sauce</roman_urdu_transliteration>
+  <roman_urdu_segmented>Tala |Sour |Aur Kali Bean Sauce</roman_urdu_segmented>
+  <urdu>تلا سور اور کالی بین سوس</urdu>
+  <urdu_segmented>تلا| سور| اور کالی بین سوس</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Snack</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Pork</type_of_meat_used>
+  <allergy>Red-Meat</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>豉椒排骨飯</name>
+  <pronunciation>si6 ziu1 paai4 gwat1 faan6</pronunciation>
+  <chinese_segmented>豉椒|排骨|飯</chinese_segmented>
+  <english_translation>Rice with Stir-Fried Pork Ribs in Black Bean Garlic Sauce</english_translation>
+  <english_segmented>Rice |with Stir-Fried |Pork Ribs| in Black Bean Garlic Sauce</english_segmented>
+  <roman_urdu_transliteration>Tala Sour ,Kali Bean, Adrak Sauce Aur Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented>Tala |Sour |,Kali Bean, |Adrak Sauce |Aur Chawal</roman_urdu_segmented>
+  <urdu>تلا سور، کالی بین، ادرک سوس، اور چاول</urdu>
+  <urdu_segmented>تلا| سور|، کالی بین|، ادرک سوس|، اور چاول </urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Pork</type_of_meat_used>
+  <allergy>None</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+  <name>生炒排骨飯</name>
+  <pronunciation> saang1 caau2 paai4 gwat1 faan6</pronunciation>
+  <chinese_segmented>生炒|排骨|飯</chinese_segmented>
+  <english_translation> Stir-fried Pork Ribs with Rice</english_translation>
+  <english_segmented> Stir-fried |Pork Ribs |with Rice</english_segmented>
+  <roman_urdu_transliteration>Halka Fried Pork Aur Chawal   </roman_urdu_transliteration>
+  <roman_urdu_segmented> Halka| Fried| Pork |Aur Chawal </roman_urdu_segmented>
+  <urdu> ہلکا فرائیڈ سور اور چاول </urdu>
+  <urdu_segmented>ہلکا| فرائیڈ| سور| اور چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$100-$150</price_range>
+  <type_of_meat_used>Pork</type_of_meat_used>
+  <allergy>Red-Meat</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+
+<dish>
+  <name>生炒牛肉飯</name>
+  <pronunciation>saang1 caau2 ngau4 juk6 faan6</pronunciation>
+  <chinese_segmented>生炒|牛肉|飯</chinese_segmented>
+  <english_translation>Stir-fried Beef with Rice</english_translation>
+  <english_segmented>Stir-fried |Beef |with Rice</english_segmented>
+  <roman_urdu_transliteration>Halka Fried Bara Ghost Aur Chawal </roman_urdu_transliteration>
+  <roman_urdu_segmented>Halka|Fried |Bara Ghost Aur Chawal</roman_urdu_segmented>
+  <urdu>ہلکا فرائیڈ بڑا گوشت اور چاول</urdu>
+  <urdu_segmented>ہلکا| فرائیڈ| بڑا گوشت اور چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Beef</type_of_meat_used>
+  <allergy>Red-Meat</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+  <name>咸魚雞粒炒飯</name>
+  <pronunciation>haam4 jyu4 gai1 lap1 caau2 faan6</pronunciation>
+  <chinese_segmented>咸魚|雞粒|炒飯</chinese_segmented>
+  <english_translation>Fried Salted Fish and Chicken with Rice</english_translation>
+  <english_segmented>Fried |Salted Fish |and Chicken |with Rice</english_segmented>
+  <roman_urdu_transliteration>Fried Namkeen Machli Aur Chicken</roman_urdu_transliteration>
+  <roman_urdu_segmented>Fried| Namkeen Machli |Aur Chicken</roman_urdu_segmented>
+  <urdu>فرائیڈ نمکین مچھلی اور مرغی</urdu>
+  <urdu_segmented>فرائیڈ| نمکین مچھلی| اور مرغی</urdu_segmented>
+  <category>Curry</category>
+  <sub_category>Non-vegetarian</sub_category>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Chicken & Seafood</type_of_meat_used>
+  <allergy>Fish/Poultry</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+  <name>星洲炒米</name>
+  <pronunciation>sing1 zau1 caau2 mai5</pronunciation>
+  <chinese_segmented>星洲|炒米</chinese_segmented>
+  <english_translation>Singaporean Fried Rice Noodles</english_translation>
+  <english_segmented>Singaporean |Fried Rice |Noodles</english_segmented>
+  <roman_urdu_transliteration>Singapori Fried Chawal Noodles</roman_urdu_transliteration>
+  <roman_urdu_segmented>Singapori|Fried |Chawal Noodles</roman_urdu_segmented>
+  <urdu>NIL</urdu>
+  <urdu_segmented>NIL</urdu_segmented>
+  <category>Noodles</category>
+  <sub_category>Non-vegetarian</sub_category>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>NIL</type_of_meat_used>
+  <allergy>NIL</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>蟹肉燴伊麵</name>
+  <pronunciation>haai5 juk6 wui6 ji1 min6</pronunciation>
+  <chinese_segmented>蟹肉|燴伊麵</chinese_segmented>
+  <english_translation>Crabmeat Noodles</english_translation>
+  <english_segmented>Crabmeat |Noodles</english_segmented>
+  <roman_urdu_transliteration>Kekra Ghost Noodles</roman_urdu_transliteration>
+  <roman_urdu_segmented>Kekra Ghost| Noodles</roman_urdu_segmented>
+  <urdu>کیکڑا گوشت نوڈلز</urdu>
+  <urdu_segmented>کیکڑا گوشت| نوڈلز</urdu_segmented>
+  <category>Noodles</category>
+  <sub_category>Non-vegetarian</sub_category>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Seafood</type_of_meat_used>
+  <allergy>Shellfish</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+  <name>瑤柱金菇炆伊麵</name>
+  <pronunciation>jiu4 cyu5 gam1 gu1 man1 ji1 min6</pronunciation>
+  <chinese_segmented>瑤柱|金菇|炆伊麵</chinese_segmented>
+  <english_translation>Conpoy and Golden Mushroom Braised Yi Noodles</english_translation>
+  <english_segmented>Conpoy |and Golden Mushroom| Braised Yi| Noodles</english_segmented>
+  <roman_urdu_transliteration>Chatar Aur Khumbi Noodles</roman_urdu_transliteration>
+  <roman_urdu_segmented>Chatar| Aur Khumbi |Noodles</roman_urdu_segmented>
+  <urdu>چٹر اور کھمبی نوڈلز</urdu>
+  <urdu_segmented>چٹر| اور کھمبی| نوڈلز</urdu_segmented>
+  <category>Noodles</category>
+  <sub_category>Non-vegetarian</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Seafood and Mushrooms</type_of_meat_used>
+  <allergy>Shellfish/Mushroom</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+  <name>豉油王鮮魷炒麵</name>
+  <pronunciation>si6 jau4 wong4 sin1 jau4 caau2 min6</pronunciation>
+  <chinese_segmented>豉油王|鮮魷|炒麵</chinese_segmented>
+  <english_translation>Supreme Soy Sauce Fried Noodles with Squid</english_translation>
+  <english_segmented>Supreme Soy Sauce| Fried Noodles |with Squid</english_segmented>
+  <roman_urdu_transliteration>Supreme Soy Sauce Fried Chawal Noodles</roman_urdu_transliteration>
+  <roman_urdu_segmented>Supreme Soy Sauce| Fried |Chawal Noodles</roman_urdu_segmented>
+  <urdu>سوپریم سوئی سوس فرائیڈ نوڈلز</urdu>
+  <urdu_segmented>سوپریم سوئی سوس| فرائیڈ| نوڈلز</urdu_segmented>
+  <category>Noodles</category>
+  <sub_category>Non-vegetarian</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Seafood</type_of_meat_used>
+  <allergy>Shellfish</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+  <name>鮑汁海鮮粒炒飯</name>
+  <pronunciation>baau1 zap1 hoi2 sin1 lap1 caau2 faan6</pronunciation>
+  <chinese_segmented>鮑汁|海鮮粒|炒飯</chinese_segmented>
+  <english_translation>Seafood Fried Rice with Abalone Sauce</english_translation>
+  <english_segmented>Seafood| Fried Rice |with Abalone Sauce</english_segmented>
+  <roman_urdu_transliteration>Bahri Ghaza Chawal Aur Abalone Sauce</roman_urdu_transliteration>
+  <roman_urdu_segmented>Bahri Ghaza| Chawal| Aur Abalone Sauce</roman_urdu_segmented>
+  <urdu>بحری غذا چاول اور ایبالون سوس</urdu>
+  <urdu_segmented>بحری غذا| چاول| اور ایبالون سوس</urdu_segmented>
+  <category>Rice</category>
+  <sub_category>Non-vegetarian</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Seafood</type_of_meat_used>
+  <allergy>Seafood</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+  <name>闊佬瑤柱雞絲炒飯</name>
+  <pronunciation>fut3 lou2 jiu4 cyu5 gai1 si1 caau2 faan6</pronunciation>
+  <chinese_segmented>闊佬瑤|柱雞|絲炒飯</chinese_segmented>
+  <english_translation>Fried Rice with Rich Scallop Shredded Chicken</english_translation>
+  <english_segmented>Fried |Rice |with Rich Scallop |Shredded |Chicken</english_segmented>
+  <roman_urdu_transliteration>Fried Chawal,Sadafi Machli aur Chicken</roman_urdu_transliteration>
+  <roman_urdu_segmented>Fried| Chawal|,Sadafi Machli |aur Chicken</roman_urdu_segmented>
+  <urdu>فرائیڈ چاول، سدافی مچھلی، اور مرغی</urdu>
+  <urdu_segmented>فرائیڈ| چاول|، سدافی مچھلی|، اور مرغی</urdu_segmented>
+  <category>Rice</category>
+  <sub_category>Non-vegetarian</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Chicken & Seafood</type_of_meat_used>
+  <allergy>Fish/Poultry</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+
+<dish>
+  <name>瑤柱蛋白炒飯</name>
+  <pronunciation>jiu4 cyu5 daan2 baak6 caau2 faan6</pronunciation>
+  <chinese_segmented>瑤柱|蛋白|炒飯</chinese_segmented>
+  <english_translation>Dried Scallop and Egg White Fried Rice</english_translation>
+  <english_segmented>Dried Scallop| and Egg White| Fried Rice</english_segmented>
+  <roman_urdu_transliteration>Sukhi Sadafi Machli Aur Anda Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented>Sukhi |Sadafi Machli |Aur Anda| Chawal</roman_urdu_segmented>
+  <urdu>سوکھی سدافی مچھلی اور انڈہ والا چاول</urdu>
+  <urdu_segmented>سوکھی| سدافی مچھلی| اور انڈہ والا| چاول</urdu_segmented>
+  <category>Rice</category>
+  <sub_category>Non-vegetarian</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Seafood</type_of_meat_used>
+  <allergy>Shellfish</allergy>
+  <halal_haram>Haram</halal_haram>
+</dish>
+
+
+<dish>
+  <name>福建炒飯</name>
+  <pronunciation>  fuk1 gin3 caau2 faan6</pronunciation>
+  <chinese_segmented>福建|炒飯</chinese_segmented>
+  <english_translation> Hokkien Fried Rice</english_translation>
+  <english_segmented> Hokkien| Fried |Rice</english_segmented>
+  <roman_urdu_transliteration> Hokkein Talle huwe Chawal   </roman_urdu_transliteration>
+  <roman_urdu_segmented> Hokkein| Talle huwe| Chawal </roman_urdu_segmented>
+  <urdu> ہوکین فرائیڈ چاول</urdu>
+  <urdu_segmented> ہوکین| فرائیڈ| چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$100-$150</price_range>
+  <type_of_meat_used>Seafood</type_of_meat_used>
+  <allergy>Shellfish/Mushroom</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+ 
+ 
+ 
+ 
+ 
+<dish>
+  <name>薑蔥魚塊飯</name>
+  <pronunciation> goeng1 cung1 jyu4 faai3 faan6</pronunciation>
+  <chinese_segmented>薑蔥|魚塊|飯</chinese_segmented>
+  <english_translation> Rice with Fish Fillet, Ginger, and spring onion</english_translation>
+  <english_segmented> Rice| with Fish Fillet|, Ginger, and spring onion
+<english_segmented>
+  <roman_urdu_transliteration> Machli, Adrak Aur Pyaz Salan
+</roman_urdu_transliteration>
+  <roman_urdu_segmented> Machli|, Adrak| Aur Pyaz| Salan
+</roman_urdu_segmented>
+  <urdu> مچھلی، ادرک، اور پیاز کا سالن</urdu>
+  <urdu_segmented> مچھلی|، ادرک|، اور پیاز| کا سالن</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Curry</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Seafood</type_of_meat_used>
+  <allergy>Fish</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+
+<dish>
+  <name>菜遠牛肉飯</name>
+  <pronunciation> coi3 jyun5 ngau4 juk6 faan6</pronunciation>
+  <chinese_segmented>菜遠|牛肉|飯</chinese_segmented>
+  <english_translation> Rice with Sliced Beef and vegetable</english_translation>
+  <english_segmented> Rice| with Sliced Beef| and vegetable</english_segmented>
+  <roman_urdu_transliteration> Bara Ghost Aur Sabzi Chawal</roman_urdu_transliteration>
+  <roman_urdu_segmented> Bara Ghost| Aur Sabzi| Chawal</roman_urdu_segmented>
+  <urdu>مرغی بڑا گوشت اور سبزی چاول </urdu>
+  <urdu_segmented>م بڑا گوشت| اور سبزی| چاول </urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Beef</type_of_meat_used>
+  <allergy>Red-meat</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+ 
+
+<dish>
+  <name>黑椒/咖喱雞扒飯<name>
+  <pronunciation> hak1 ziu1 / gaa1 lei1 gai1 paa4 faan6</pronunciation>
+  <chinese_segmented>黑椒|/咖喱|雞扒|飯</chinese_segmented>
+  <english_translation> Rice with Chicken Steak with Black Pepper/ Curry sauce
+</english_translation>
+  <english_segmented> Rice| with Chicken Steak| with Black Pepper/ Curry sauce
+</english_segmented>
+  <roman_urdu_transliteration> Chargah, Kaali March Salan Chatni Aur Chawal
+</roman_urdu_transliteration>
+  <roman_urdu_segmented> Chargah|, Kaali March| Salan| Chatni| Aur Chawal
+</roman_urdu_segmented>
+  <urdu>مرغی چرغاہ، کالی مرچ کا سالن، چٹنی، اور چاول</urdu>
+  <urdu_segmented>مرغی | چرغاہ|، کالی مرچ| کا سالن|، چٹنی|، اور چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used> Chicken</type_of_meat_used>
+  <allergy>Poultry</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+ 
+
+<dish>
+  <name>咕嚕魚塊飯</name>
+  <pronunciation> gu1 lou1 jyu4 faai3 faan6</pronunciation>
+  <chinese_segmented>咕|嚕|魚塊|飯</chinese_segmented>
+  <english_translation> Rice with Sweet and Sour Fish Fillet</english_translation>
+  <english_segmented> Rice| with Sweet| and Sour |Fish Fillet</english_segmented>
+  <roman_urdu_transliteration> Meethi Aur Khati Machli Aur Chawal
+</roman_urdu_transliteration>
+  <roman_urdu_segmented> Meethi| Aur Khati |Machli |Aur Chawal
+</roman_urdu_segmented>
+  <urdu> میٹھی اور کھٹی مچھلی اور چاول</urdu>
+  <urdu_segmented> میٹھی| اور کھٹی| مچھلی| اور چاول<urdu_segmented>
+  <category>Food</category>
+  <sub_category>Rice</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Seafood</type_of_meat_used>
+  <allergy>Fish</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+ 
+ 
+
+
+<dish>
+  <name>咖喱羊腩飯 </name>
+  <pronunciation> gaa1 lei1 joeng4 naam5 faan6</pronunciation>
+  <chinese_segmented>咖喱|羊腩|飯 </chinese_segmented>
+  <english_translation> Rice with Mutton Curry</english_translation>
+  <english_segmented> Rice |with Mutton Curry</english_segmented>
+  <roman_urdu_transliteration> Bakra Ghost Ka Salan Aur Chawal
+</roman_urdu_transliteration>
+  <roman_urdu_segmented> Bakra Ghost| Ka Salan| Aur Chawal
+</roman_urdu_segmented>
+  <urdu>مرغی بکرا گوشت کا سالن اور چاول</urdu>
+  <urdu_segmented> بکرا گوشت| کا سالن| اور چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Curry</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Beef</type_of_meat_used>
+  <allergy>Red-meat</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+
+
+<dish>
+  <name>咖喱牛腩飯</name>
+  <pronunciation> gaa1 lei1 ngau4 naam5 faan6</pronunciation>
+  <chinese_segmented>咖喱|牛腩|飯</chinese_segmented>
+  <english_translation> Rice with Beef Curry</english_translation>
+  <english_segmented> Rice |with Beef Curry</english_segmented>
+  <roman_urdu_transliteration> Bara Ghost Ka Salan Aur Chawal
+</roman_urdu_transliteration>
+  <roman_urdu_segmented> Bara Ghost| Ka Salan| Aur Chawal
+</roman_urdu_segmented>
+  <urdu>مرغی بڑا گوشت کا سالن اور چاول</urdu>
+  <urdu_segmented>مرغی | بڑا گوشت| کا سالن اور| چاول</urdu_segmented>
+  <category>Food</category>
+  <sub_category>Curry</sub_category>
+  <veg_non_veg>Non-vegetarian</veg_non_veg>
+  <price_range>$50-$100</price_range>
+  <type_of_meat_used>Beef</type_of_meat_used>
+  <allergy>Red-meat</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+ 
+ 
+ 
+ 
+ 
+<dish>
+  <name>忌廉 </name>
+  <pronunciation>  gei6 lim4</pronunciation>
+  <chinese_segmented>忌|廉 </chinese_segmented>
+  <english_translation> Cream Soda</english_translation>
+  <english_segmented> Cream |Soda</english_segmented>
+  <roman_urdu_transliteration> Cream Sodaroman_urdu_transliteration>
+  <roman_urdu_segmented> Cream| Soda<roman_urdu_segmented>
+  <urdu> کریم سوڈا</urdu>
+  <urdu_segmented کریم| سوڈا </urdu_segmented>
+  <category>Beverage</category>
+  <sub_category>Beverage</sub_category>
+  <veg_non_veg>Vegetarian</veg_non_veg>
+  <price_range>$0-$50</price_range>
+  <type_of_meat_used>NIL</type_of_meat_used>
+  <allergy>NIL</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+
+ 
+<dish>
+  <name>可樂 </name>
+  <pronunciation>  ho2 lok6</pronunciation>
+  <chinese_segmented>可樂 </chinese_segmented>
+  <english_translation> Coke</english_translation>
+  <english_segmented>Smooth Coke</english_segmented>
+  <roman_urdu_transliteration> Coke </roman_urdu_transliteration>
+  <roman_urdu_segmented> Coke</roman_urdu_segmented>
+  <urdu> کوک<urdu>
+  <urdu_segmented>مر کوک<urdu_segmented>
+  <category>Beverage</category>
+  <sub_category>Beverage</sub_category>
+  <veg_non_veg>Vegetarian</veg_non_veg>
+  <price_range>$0-$50</price_range>
+  <type_of_meat_used>NIL</type_of_meat_used>
+  <allergy>NIL</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+
+
+<dish>
+  <name>雪碧 </name>
+  <pronunciation>  syut3 bik1</pronunciation>
+  <chinese_segmented>雪碧 </chinese_segmented>
+  <english_translation> Sprite<english_translation>
+  <english_segmented> Sprite</english_segmented>
+  <roman_urdu_transliteration> Sprite</roman_urdu_transliteration>
+  <roman_urdu_segmented> Sprite</roman_urdu_segmented>
+  <urdu> اسپرائٹ</urdu>
+  <urdu_segmented> اسپرائٹ</urdu_segmented>
+  <category>Beverage</category>
+  <sub_category>Beverage</sub_category>
+  <veg_non_veg>Vegetarian</veg_non_veg>
+  <price_range>$0-$50</price_range>
+  <type_of_meat_used>NIL</type_of_meat_used>
+  <allergy>NIL</allergy>
+  <halal_haram>Halal</halal_haram>
+</dish>
+
+</menu_items>
